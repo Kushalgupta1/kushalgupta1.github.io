@@ -1,0 +1,26 @@
+body{
+    font-family:verdana, arial, helvetica, sans-serif
+}
+
+.hbox{
+    display:flex;
+}
+.htitle, .abc{
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    font-size:32px;
+    flex:1;
+    text-align:center;
+    padding-top:24px;
+    padding-bottom:24px;
+}
+#logoimg{
+    height:88px;
+}
+.coursetitle{
+    background-color:purple;
+    color:white;
+    font-size:24px;
+    padding:8px;
+}
