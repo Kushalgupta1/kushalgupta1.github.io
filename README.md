@@ -8,3 +8,5 @@ Push : Push commits to remote origin. (Push origin: from local to remote, fetch 
 
 Pull request: Made by a side branch to the main branch to merge the changes of the side branch in the main branch.
 
+Stashed changes in the useless branch readme. Now working on main branch. bbb
+
