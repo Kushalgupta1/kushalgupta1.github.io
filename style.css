@@ -6,7 +6,7 @@ body{
     display:flex;
 }
 .htitle, .abc{
-    background-color:black;
+    background-color:rgb(27, 53, 6);
     color:white;
     font-weight:bold;
     font-size:32px;
@@ -19,7 +19,7 @@ body{
     height:88px;
 }
 .coursetitle{
-    background-color:purple;
+    background-color:rgb(70, 226, 231);
     color:white;
     font-size:24px;
     padding:8px;
