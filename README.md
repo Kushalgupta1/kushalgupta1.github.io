@@ -6,5 +6,6 @@ Commit: A particular branch is selected of a repo in GitHub desktop. If you make
 
 Push : Push commits to remote origin. (Push origin: from local to remote, fetch origin: from remote to local)
 
-Pull request: Made by a side branch to the main branch to merge the changes of the side branch in the main branch.
+Pull request: Made by a side branch to the main branch to merge the changes of the side branch in the main branch. Called Merge branch 'main' into making-an-useless-branch.
 
+Merge pull request: Main branch accepts the changes of the pull request and is updated. When merged, both branches must be exactly the same. 
